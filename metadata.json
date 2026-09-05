@@ -1,0 +1,6 @@
+{
+  "name": "Glow & Style Salon",
+  "description": "Premium modern demo website for Glow & Style Salon featuring hair, beauty, and grooming services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
